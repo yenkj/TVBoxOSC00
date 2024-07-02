@@ -6,4 +6,4 @@
 ## Credits
 This repo relies on the following third-party projects:
 - [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
-- [yenkj/Box](https://github.com/yenkj/Box) (Updated: 21650111487ee885177278952b24864945e3b512)
+- [yenkj/Box](https://github.com/yenkj/Box) (Updated: 8abb149d3130f9b4477b0d4cdddd7c24f943ef64)
